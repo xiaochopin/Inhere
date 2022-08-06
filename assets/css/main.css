@@ -1,4 +1,4 @@
-@import url("font-awesome.min.css");
+﻿@import url("font-awesome.min.css");
 @import url("http://fonts.useso.com/css?family=Roboto:100,300,100italic,300italic");
 
 /*
@@ -3390,7 +3390,7 @@
 	#banner {
 		background-attachment: fixed;
 		background-color: #272833;
-		background-image: url("../../images/pic000.jpg");
+		background-image: url("https://s1.ax1x.com/2022/08/06/vu8hN9.jpg");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
